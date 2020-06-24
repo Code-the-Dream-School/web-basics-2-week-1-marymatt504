@@ -62,7 +62,16 @@ console.log('hello world')
  * Example Output: "Aww! It's not sunny outside"
  */
 
-// TODO: ADD CODE HERE
+const weather = 'Rainy';
+let message;
+
+if (weather === 'Sunny') {
+  message = "Yay! It's sunny outside";
+} else {
+  message = "Aww! It's not sunny outside";
+}
+console.log ('message: ', message);
+
 
 /* Challenge #5
  * Create a function that returns any string
