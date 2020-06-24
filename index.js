@@ -73,6 +73,8 @@ if (weather === 'Sunny') {
 console.log ('message: ', message);
 
 
+
+
 /* Challenge #5
  * Create a function that returns any string
  *
